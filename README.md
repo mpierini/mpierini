@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Michele 👋
 
 <!--
 **mpierini/mpierini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software engineer who specializes in back end services and writing APIs in Go.
+
+<img width="850" height="321" alt="golanggophers" src="https://github.com/user-attachments/assets/a761fb06-31a7-4d88-b37b-54859363c45c" />
+
+### Personal Interests
+Outside of work, you can find me learning flamenco, skating (🛼, 🛹, ⛸), cooking (🥗, 🌮, 🥯), and hanging with my cat Eggs (🐱, 🥚).
